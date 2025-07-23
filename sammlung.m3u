@@ -9,3 +9,6 @@ https://stream.iradio.pro/proxy/radiosljivovica
 
 #EXTINF:-1 radio="true" tvg-id="mojradio" tvg-name="Moj Radio" group-title="RS" tvg-logo="",Moj Radio
 https://eu4.fastcast4u.com/proxy/svidakov
+
+#EXTINF:-1 radio="true" tvg-id="krajiskiradio" tvg-name="Krajiski Radio" group-title="RS" tvg-logo="",Krajiski Radio
+https://micorsk.radioca.st/stream

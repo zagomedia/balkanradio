@@ -12,3 +12,12 @@ https://eu4.fastcast4u.com/proxy/svidakov
 
 #EXTINF:-1 radio="true" tvg-id="krajiskiradio" tvg-name="Krajiski Radio" group-title="RS" tvg-logo="",Krajiski Radio
 https://micorsk.radioca.st/stream
+
+#EXTINF:-1 radio="true" tvg-id="radiosumadinac" tvg-name="Radio Sumadinac" group-title="RS" tvg-logo="",Radio Sumadinac
+https://media.srb-streaming.com/stream/radio-sumadinac-narodna
+
+#EXTINF:-1 radio="true" tvg-id="radiopulsgrocka" tvg-name="Radio Puls Grocka" group-title="RS" tvg-logo="",Radio Puls Grocka
+https://cmr-hosting.com/8312/stream
+
+#EXTINF:-1 radio="true" tvg-id="resavskiradio" tvg-name="Resavski Radio" group-title="RS" tvg-logo="",Resavski Radio
+https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3

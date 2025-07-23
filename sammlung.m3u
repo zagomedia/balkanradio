@@ -21,3 +21,6 @@ https://cmr-hosting.com/8312/stream
 
 #EXTINF:-1 radio="true" tvg-id="resavskiradio" tvg-name="Resavski Radio" group-title="RS" tvg-logo="",Resavski Radio
 https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiomorava" tvg-name="Radio Morava" group-title="RS" tvg-logo="",Radio Morava
+https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3

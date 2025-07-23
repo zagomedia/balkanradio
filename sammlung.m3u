@@ -1,11 +1,11 @@
-#EXTINF:-1 radio="true" tvg-id="naxibankerradionis" tvg-name="Naxi BANKER Radio Nis" tvg-logo="https://i.imgur.com/858KM3e.png" group-title="RS",Naxi BANKER Radio Nis
+#EXTINF:-1 radio="true" tvg-id="naxibankerradionis" tvg-name="Naxi BANKER Radio Nis" group-title="RS" tvg-logo="https://i.imgur.com/858KM3e.png",Naxi BANKER Radio Nis
 https://banker96-naxinacional.streaming.rs:8542/
 
-#EXTINF:-1 radio="true" tvg-id="naxibankercaferadionis" tvg-name="Naxi BANKER Cafe Radio Nis" tvg-logo="https://i.imgur.com/858KM3e.png" group-title="RS",Naxi BANKER Cafe Radio Nis
+#EXTINF:-1 radio="true" tvg-id="naxibankercaferadionis" tvg-name="Naxi BANKER Cafe Radio Nis" group-title="RS" tvg-logo="https://i.imgur.com/858KM3e.png",Naxi BANKER Cafe Radio Nis
 https://bankercafe-naxinacional.streaming.rs:8617/
 
-#EXTINF:-1 radio="true" tvg-id="radiosljivovicakraljevo" tvg-name="Radio Sljivovica Kraljevo" tvg-logo="" group-title="RS",Radio Sljivovica Kraljevo
+#EXTINF:-1 radio="true" tvg-id="radiosljivovicakraljevo" tvg-name="Radio Sljivovica Kraljevo" group-title="RS" tvg-logo="",Radio Sljivovica Kraljevo
 https://stream.iradio.pro/proxy/radiosljivovica
 
-#EXTINF:-1 radio="true" tvg-id="mojradio" tvg-name="Moj Radio" tvg-logo="" group-title="RS",Moj Radio
+#EXTINF:-1 radio="true" tvg-id="mojradio" tvg-name="Moj Radio" group-title="RS" tvg-logo="",Moj Radio
 https://eu4.fastcast4u.com/proxy/svidakov

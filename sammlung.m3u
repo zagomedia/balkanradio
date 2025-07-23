@@ -24,3 +24,6 @@ https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3
 
 #EXTINF:-1 radio="true" tvg-id="radiomorava" tvg-name="Radio Morava" group-title="RS" tvg-logo="",Radio Morava
 https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3
+
+#EXTINF:-1 radio="true" tvg-id="pallasradiokikinda" tvg-name="Pallas Radio Kikinda" group-title="RS" tvg-logo="",Pallas Radio Kikinda
+https://eu9.fastcast4u.com/proxy/svidakov2

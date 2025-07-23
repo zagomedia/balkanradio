@@ -27,3 +27,9 @@ https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3
 
 #EXTINF:-1 radio="true" tvg-id="pallasradiokikinda" tvg-name="Pallas Radio Kikinda" group-title="RS" tvg-logo="",Pallas Radio Kikinda
 https://eu9.fastcast4u.com/proxy/svidakov2
+
+#EXTINF:-1 radio="true" tvg-id="radiopingvin" tvg-name="Radio Pingvin" group-title="RS" tvg-logo="",Radio Pingvin
+http://uzivo.radiopingvin.com/domaci1
+
+#EXTINF:-1 radio="true" tvg-id="bumbumradio" tvg-name="Bum Bum Radio" group-title="RS" tvg-logo="",Bum Bum Radio
+http://bumbum-stream.netlogic.rs:8000

@@ -33,3 +33,6 @@ http://uzivo.radiopingvin.com/domaci1
 
 #EXTINF:-1 radio="true" tvg-id="bumbumradio" tvg-name="Bum Bum Radio" group-title="RS" tvg-logo="",Bum Bum Radio
 http://bumbum-stream.netlogic.rs:8000
+
+#EXTINF:-1 radio="true" tvg-id="radiokafanasabac" tvg-name="Radio Kafana Sabac" group-title="RS" tvg-logo="",Radio Kafana Sabac
+http://stream1.srvnetplus.com:8013

@@ -10,7 +10,7 @@ https://stream.iradio.pro/proxy/radiosljivovica
 #EXTINF:-1 radio="true" tvg-id="mojradio" tvg-name="Moj Radio" group-title="RS" tvg-logo="",Moj Radio
 https://eu4.fastcast4u.com/proxy/svidakov
 
-#EXTINF:-1 radio="true" tvg-id="krajiskiradio" tvg-name="Krajiski Radio" group-title="RS" tvg-logo="",Krajiski Radio
+#EXTINF:-1 radio="true" tvg-id="krajiskiradio" tvg-name="Krajiski Radio" group-title="RS" tvg-logo="https://i.imgur.com/nI3BLR6.png",Krajiski Radio Beska
 https://micorsk.radioca.st/stream
 
 #EXTINF:-1 radio="true" tvg-id="radiosumadinac" tvg-name="Radio Sumadinac" group-title="RS" tvg-logo="",Radio Sumadinac

@@ -1,22 +1,22 @@
 
 
 
-#EXTINF:-1 radio="true" tvg-id="radiopulsgrocka" tvg-name="Radio Puls Grocka" group-title="RS" tvg-logo="",Radio Puls Grocka
+#EXTINF:-1 radio="true" tvg-id="radiopulsgrocka" tvg-name="Radio Puls Grocka" group-title="RS" tvg-logo="https://i.imgur.com/HHEtPCJ.png",Radio Puls Grocka
 https://cmr-hosting.com/8312/stream
 
-#EXTINF:-1 radio="true" tvg-id="resavskiradio" tvg-name="Resavski Radio" group-title="RS" tvg-logo="",Resavski Radio
+#EXTINF:-1 radio="true" tvg-id="resavskiradio" tvg-name="Resavski Radio" group-title="RS" tvg-logo="https://i.imgur.com/5n4Octj.png",Resavski Radio
 https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3
 
-#EXTINF:-1 radio="true" tvg-id="radiomorava" tvg-name="Radio Morava" group-title="RS" tvg-logo="",Radio Morava
+#EXTINF:-1 radio="true" tvg-id="radiomorava" tvg-name="Radio Morava" group-title="RS" tvg-logo="https://i.imgur.com/M0IY7PT.png",Radio Morava
 https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3
 
-#EXTINF:-1 radio="true" tvg-id="pallasradiokikinda" tvg-name="Pallas Radio Kikinda" group-title="RS" tvg-logo="",Pallas Radio Kikinda
+#EXTINF:-1 radio="true" tvg-id="pallasradiokikinda" tvg-name="Pallas Radio Kikinda" group-title="RS" tvg-logo="https://i.imgur.com/9iz2Y9V.png",Pallas Radio Kikinda
 https://eu9.fastcast4u.com/proxy/svidakov2
 
-#EXTINF:-1 radio="true" tvg-id="radiopingvin" tvg-name="Radio Pingvin" group-title="RS" tvg-logo="",Radio Pingvin
+#EXTINF:-1 radio="true" tvg-id="radiopingvin" tvg-name="Radio Pingvin" group-title="RS" tvg-logo="https://i.imgur.com/18Rd9YL.png",Radio Pingvin
 http://uzivo.radiopingvin.com/domaci1
 
-#EXTINF:-1 radio="true" tvg-id="bumbumradio" tvg-name="Bum Bum Radio" group-title="RS" tvg-logo="",Bum Bum Radio
+#EXTINF:-1 radio="true" tvg-id="bumbumradio" tvg-name="Bum Bum Radio" group-title="RS" tvg-logo="https://i.imgur.com/gdc1WLE.png",Bum Bum Radio
 http://bumbum-stream.netlogic.rs:8000
 
 #EXTINF:-1 radio="true" tvg-id="radiokafanasabac" tvg-name="Radio Kafana Sabac" group-title="RS" tvg-logo="",Radio Kafana Sabac

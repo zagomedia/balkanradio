@@ -1,1 +1,1 @@
-Verwaltere Sammlung von Internetradiosendern vom Balkan.
+Einfache Sammlung von Internetradiosendern vom Balkan.

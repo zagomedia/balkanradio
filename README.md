@@ -1,1 +1,3 @@
-Einfache Sammlung von Internetradiosendern vom Balkan.
+The "balkanradio" project is a free, open source project. The project focuses on creating m3u files containing radio streaming links. Currently, there is an .m3u file with radio stations. The project is currently in a testing phase, so certain files are constantly being modified, deleted, added, or expanded. Changes can affect both the links and the tags.
+
+Bei dem Projekt "balkanradio" handelt es sich um ein freies open Soucre Projekt. Das Projekt befasst sich mit dem Erstellen von m3u Dateien welche Radio-Streaming-Links beinhalt. Derzeit befindet sich das Projekt in einer Testphase, somit wird laufend etwas an der Datei verändert, gelöscht, hinzugefügt oder erweitert. Die Änderungen können sowohl die Links als auch die Tags betreffen.

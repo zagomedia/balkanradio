@@ -278,3 +278,33 @@ https://rtcgradio-live.morescreens.com/RTCG_2_002/chunklist.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="radiozrenjanin" tvg-name="Radio Zrenjanin" group-title="RS" tvg-logo="https://i.imgur.com/9GX6lPu.png",Radio Zrenjanin
 https://radio.dukahosting.com:7031/
+
+#EXTINF:-1 radio="true" tvg-id="Hrvatski radio Klasik" tvg-name="Hrvatski radio Klasik" group-title="HR" tvg-logo="",Hrvatski radio Klasik
+https://28553.live.streamtheworld.com/HR_CLASSICSAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRPop" tvg-name="HRT Radio Pop" group-title="HR" tvg-logo="",HRT Radio Pop
+
+#EXTINF:-1 radio="true" tvg-id="HRPrviprogram" tvg-name="HRT Radio Prvi program" group-title="HR" tvg-logo="",HRT Radio Prvi program
+
+#EXTINF:-1 radio="true" tvg-id="HRDrugiprogram" tvg-name="HRT Radio Drugi program" group-title="HR" tvg-logo="",HRT Radio Drugi program
+
+#EXTINF:-1 radio="true" tvg-id="HRTreciprogram" tvg-name="HRT Radio Treci program" group-title="HR" tvg-logo="",HRT Radio Treci program
+
+#EXTINF:-1 radio="true" tvg-id="HRSljeme" tvg-name="HRT Radio Sljeme" group-title="HR" tvg-logo="",HRT Radio Sljeme
+
+#EXTINF:-1 radio="true" tvg-id="HROsijek" tvg-name="HRT Radio Osijek" group-title="HR" tvg-logo="",HRT Radio Osijek
+
+#EXTINF:-1 radio="true" tvg-id="HRPula" tvg-name="HRT Radio Pula" group-title="HR" tvg-logo="",HRT Radio Pula
+
+#EXTINF:-1 radio="true" tvg-id="HRRijeka" tvg-name="HRT Radio Rijeka" group-title="HR" tvg-logo="",HRT Radio Rijeka
+
+#EXTINF:-1 radio="true" tvg-id="HRZadar" tvg-name="HRT Radio Zadar" group-title="HR" tvg-logo="",HRT Radio Zadar
+
+#EXTINF:-1 radio="true" tvg-id="HRKnin" tvg-name="HRT Radio Knin" group-title="HR" tvg-logo="",HRT Radio Knin
+
+#EXTINF:-1 radio="true" tvg-id="HRSplit" tvg-name="HRT Radio Split" group-title="HR" tvg-logo="",HRT Radio Split
+
+#EXTINF:-1 radio="true" tvg-id="HRDubrovnik" tvg-name="HR Dubrovnik" group-title="HR" tvg-logo="",HRT Radio Dubrovnik
+
+#EXTINF:-1 radio="true" tvg-id="HRGlasHrvatske" tvg-name="HR Glas Hrvatske" group-title="HR" tvg-logo="",HRT Radio Glas Hrvatske
+
